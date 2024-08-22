@@ -1,5 +1,7 @@
 # Satellite Image Landscape Classifier
 
+![Sample Satellite Image](output_image.jpg)
+
 ## Project Overview
 This project is an image classification system designed to identify and label different landscapes in satellite images. Using a deep learning model based on VGG16, the classifier can recognize and annotate areas such as beaches, mountains, oceans, rivers, and more. The project also includes a desktop application built with Tkinter that allows users to upload images and view the classified landscape regions.
 
